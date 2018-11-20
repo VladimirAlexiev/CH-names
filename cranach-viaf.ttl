@@ -1,0 +1,403 @@
+@prefix schema: <http://schema.org/> .
+@prefix genont: <http://www.w3.org/2006/gen/ont#> .
+@prefix void:  <http://rdfs.org/ns/void#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix bgn:   <http://bibliograph.net/> .
+@prefix skos:  <http://www.w3.org/2004/02/skos/core#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:  <http://xmlns.com/foaf/0.1/> .
+
+<http://viaf.org/viaf/49268177/>
+        a                  foaf:Document , genont:InformationResource ;
+        void:inDataset     <http://viaf.org/viaf/data> ;
+        foaf:primaryTopic  <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/49268177>
+        a                      schema:Person ;
+        rdfs:seeAlso           <http://viaf.org/viaf/219302922> , <http://viaf.org/viaf/sourceID/DNB%7C040332624#skos:Concept> , <http://viaf.org/viaf/293683978> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000121319721#skos:Concept> , <http://viaf.org/viaf/sourceID/DNB%7C1043595406#skos:Concept> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000121428346#skos:Concept> , <http://viaf.org/viaf/301128594> , <http://viaf.org/viaf/293403678> , <http://viaf.org/viaf/198912192> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000120961368#skos:Concept> , <http://viaf.org/viaf/176725906> , <http://viaf.org/viaf/sourceID/DNB%7C128039566#skos:Concept> , <http://viaf.org/viaf/301943627> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000121464443#skos:Concept> , <http://viaf.org/viaf/196919369> , <http://viaf.org/viaf/309724175> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000083971689#skos:Concept> , <http://viaf.org/viaf/sourceID/DNB%7C11867045X#skos:Concept> , <http://viaf.org/viaf/198145223> , <http://viaf.org/viaf/293678737> , <http://viaf.org/viaf/sourceID/DNB%7C040651053#skos:Concept> , <http://viaf.org/viaf/193687224> , <http://viaf.org/viaf/sourceID/DNB%7C100256236#skos:Concept> , <http://viaf.org/viaf/207945460> , <http://viaf.org/viaf/sourceID/DNB%7C116725427#skos:Concept> , <http://viaf.org/viaf/305258283> , <http://viaf.org/viaf/188299267> , <http://viaf.org/viaf/sourceID/DNB%7C139980377#skos:Concept> , <http://viaf.org/viaf/197067504> , <http://viaf.org/viaf/252460288> , <http://viaf.org/viaf/308732586> , <http://viaf.org/viaf/310613886> , <http://viaf.org/viaf/311190865> , <http://viaf.org/viaf/308208455> , <http://viaf.org/viaf/202975979> , <http://viaf.org/viaf/247916781> , <http://viaf.org/viaf/189367455> , <http://viaf.org/viaf/311456689> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000108723199#skos:Concept> , <http://viaf.org/viaf/309627965> , <http://viaf.org/viaf/sourceID/DNB%7C118580485#skos:Concept> , <http://viaf.org/viaf/309627831> , <http://viaf.org/viaf/sourceID/DNB%7C115690387#skos:Concept> , <http://viaf.org/viaf/sourceID/DNB%7C134276531#skos:Concept> , <http://viaf.org/viaf/196743522> , <http://viaf.org/viaf/198559187> , <http://viaf.org/viaf/sourceID/DNB%7C135674263#skos:Concept> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000040152130#skos:Concept> , <http://viaf.org/viaf/sourceID/ISNI%7C000000011059877X#skos:Concept> , <http://viaf.org/viaf/sourceID/DNB%7C040660095#skos:Concept> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000115943595#skos:Concept> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000121400378#skos:Concept> , <http://viaf.org/viaf/308202965> , <http://viaf.org/viaf/181589948> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000053815431#skos:Concept> , <http://viaf.org/viaf/sourceID/DNB%7C158885457#skos:Concept> , <http://viaf.org/viaf/190449321> , <http://viaf.org/viaf/194032409> , <http://viaf.org/viaf/207940406> , <http://viaf.org/viaf/196916549> , <http://viaf.org/viaf/198564967> , <http://viaf.org/viaf/sourceID/ISNI%7C000000038543888X#skos:Concept> , <http://viaf.org/viaf/309618709> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000110414766#skos:Concept> , <http://viaf.org/viaf/309601589> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000073502715#skos:Concept> , <http://viaf.org/viaf/219965699> , <http://viaf.org/viaf/sourceID/DNB%7C959036237#skos:Concept> , <http://viaf.org/viaf/266695348> , <http://viaf.org/viaf/312410314> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000110304508#skos:Concept> , <http://viaf.org/viaf/191526550> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000122775534#skos:Concept> , <http://viaf.org/viaf/205792598> , <http://viaf.org/viaf/193053703> , <http://viaf.org/viaf/sourceID/ISNI%7C0000000123106279#skos:Concept> ;
+        schema:alternateName   "Sunder-Maler, Lucas" , "Müller, Lukas" , "קראנאך, לוקאס האב" , "Cranach l'ancien" , "קרנך, לוקס האב" , "Cranach, Lucas, The Elder" , "Sünder, Lucas" , "Cranach, Lucas, the Elder" , "Cranach l'ancien, Lucas" , "Lucas Cranach" , "Cranach the Elder, Lucas" , "Cranach, Lucas I" , "Cranach, Lucas, der Ältere, 1472-1553" , "Cranach, Lucas st" , "Lucas I Cranach" , "Cranach, Lucas, the elder (German painter, draftsman, and printmaker, 1472-1553)" , "Lucas Cranack" , "קראנאך, לוקאס, האב (סדנת), 1472-1553" , "Cranach, Lucas, the Elder (studio of), 1472-1553" , "Sunder, Lucas" , "Cranach d. Ä, Lucas" , "Cranach, Lucas" , "Lucas Cranach the Elder" , "Kronach, Lucas" , "Subder, Lucas" , "Kranakh, Luka" , "Lucas Cranache" , "Cranach der Ältere" , "Luca d'Olanda" , "Kurānaha, ..." , "Кранах, Лукас, 1472-1553" , "Cranach Starszy" , "Cranach l'Ancien" , "Cranach, Sunder" , "Kranach, Lukas" , "Кранах, Лукас" , "Sünder, Lukas" , "Cranach, Lukas" , "Cranach d. Ä., Lucas" , "Luca Kranack" , "Moller, Lucas" , "Kranach, Lucas" , "Maler, Lucas" , "Lucas Cranaccio" , "Müller, Lucas" , "Cranach, Lucas der Ältere" , "Cranach, Muller" , "Cranach, Lucas, the Elder, 1472-1553" , "קראנאך, לוקאס, האב, 1472-1553" , "Luca Cranach" , "Kurānaha, .." , "Cranach der Ältere, Lucas" , "Krānahs, Lukass" , "Cranach, Lukas d.Ä." , "Cranach" , "クラーナハ" , "Cranach, Lucas, 1472-1553" , "Sonder, Lucas" , "Muller, Lucas" , "קרנך, לוקס, האב" , "Cranach, Lucas, d. ä., 1472-1553" ;
+        schema:birthDate       "1472-10-04" ;
+        schema:deathDate       "1553-10-16" ;
+        schema:description     "German painter, draftsman, and printmaker, 1472-1553" ;
+        schema:familyName      "קראנאך" , "Cranach" , "Кранах" ;
+        schema:givenName       "Лукас" , "Lucas" , "לוקאס האב" , "Lucas the Elder (studio of)" , "Lucas the elder" , "Lucas The Elder" , "לוקאס האב (סדנת)" , "Lucas the Elder" ;
+        schema:name            "Кранах, Лукас" , "קראנאך, לוקאס, האב (סדנת)" , "Cranach, Lucas, the Elder" , "Cranach, Lucas, the Elder (studio of)" , "קראנאך, לוקאס, האב" , "Cranach, Lucas, The Elder" , "Cranach" , "Cranach, Lucas, the elder" , "Cranach, Lucas" ;
+        schema:sameAs          <http://data.bnf.fr/ark:/12148/cb12176451h#foaf:Person> , <http://dbpedia.org/resource/Lucas_Cranach_the_Elder> , <http://d-nb.info/gnd/118522582> , <http://www.idref.fr/028710010/id> , <http://libris.kb.se/resource/auth/182422> ;
+        foaf:isPrimaryTopicOf  <http://en.wikipedia.org/wiki/Lucas_Cranach_the_Elder> .
+
+<http://viaf.org/viaf/sourceID/BAV%7CADV10197613#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Luca d'Olanda, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/BAV> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/BNC%7Ca10853637#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Subder, Lucas, 1472-1553." , "Müller, Lucas, 1472-1553." , "Cranach, Lucas" , "Cranach, El vell, 1472-1553." , "Maler, Lucas, 1472-1553." , "Kranakh, Luka, 1472-1553." , "Kranach, Lukas, 1472-1553." ;
+        skos:inScheme   <http://viaf.org/authorityScheme/BNC> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/BNE%7CXX907273#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Cranach, Lucas, el Viejo 1472-1553" , "Kranach, Lukas 1472-1553" , "Maler, Lucas 1472-1553" , "Müller, Lucas 1472-1553" , "Sunder, Lucas 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/BNE> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/BNF%7C12176451#skos:Concept>
+        a                skos:Concept ;
+        rdfs:seeAlso     <http://catalogue.bnf.fr/ark:/12148/cb12176451h> ;
+        skos:altLabel    "Cranach der Ältere Lucas 1472-1553" , "Cranach Lukas 1472-1553" , "Cranach l'ancien Lucas 1472-1553" , "Cranach l'ancien 1472-1553" ;
+        skos:exactMatch  <http://data.bnf.fr/ark:/12148/cb12176451h> ;
+        skos:inScheme    <http://viaf.org/authorityScheme/BNF> ;
+        skos:prefLabel   "Cranach, Lucas, 1472-1553." ;
+        foaf:focus       <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/DNB%7C118522582#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Cranach, Lukas der Ältere 1472-1553" , "Sunder, Lucas 1472-1553" , "Kurānaha, ... 1472-1553" , "Maler, Lucas 1472-1553" , "Cranach, Lucas st. 1472-1553" , "Cranach, Lucas the elder 1472-1553" , "Cranach, Lucas der Ältere 1472-1553" , "Kranach, Lukas 1472-1553" , "Sünder, Lukas 1472-1553" , "Sunder-Maler, Lucas 1472-1553" , "Cranach, Lukas d.Ä. 1472-1553" , "Müller, Lucas 1472-1553" , "Cranach, Lukas 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/DNB> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/ISNI%7C0000000121319721#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Lucas I Cranach" , "Maler, Lucas" , "Müller, Lucas" , "Cranach, Lukas d.Ä. 1472-1553" , "Cranach, Lucas, l'Ancien" , "Lucas Cranach" , "Cranach, Lucas 1472-1553 the elder" , "Cranach l'ancien 1472-1553" , "Cranach, Lucas 1472-1553 der Ältere" , "Müller, Lucas, 1472-1553" , "Luca Kranack" , "Cranach, Lucas, 1472-1553 der Ältere," , "Sunder, Lucas, 1472-1553" , "Lucas Cranack" , "Maler, Lucas, 1472-1553" , "Kranach, Lukas 1472-1553" , "Cranach der Ältere, Lucas 1472-1553" , "Cranach der Ältere" , "Sunder, Lucas 1472-1553" , "Cranach, Lucas der Ältere" , "Sünder, Lukas 1472-1553" , "Lucas Cranache" , "Cranach, Lucas, 1472-1553 el Viejo" , "Cranach l'Ancien" , "クラーナハ" , "Cranach, Lukas" , "Cranach, Lucas the Elder" , "Cranach, Lukas 1472-1553 der Ältere" , "Cranach, Lukas 1472-1553" , "Kranach, Lukas" , "Muller, Lucas" , "Kurānaha, .. 1472-1553" , "Cranach, Lucas, 1472-1553 il Vecchio," , "Cranach, Lucas st 1472-1553" , "Cranach Starszy" , "Cranach, Muller" , "Luca Cranach" , "Cranach, Lucas, 1472-1553" , "Moller, Lucas" , "Кранах, Лукас, 1472-1553" , "Cranach, Lucas, 1472-1553 the Elder," , "Kranakh, Luka" , "Cranach, Lucas I" , "Lucas Cranach the Elder" , "Sunder, Lucas" , "Luca d'Olanda 1472-1553" , "Lucas Cranaccio" , "Sünder, Lukas" , "Cranach 1472-1553 El vell," , "Cranach, Lucas 1472-1553 the Elder (studio of)," , "Cranach, Lucas 1472-1553 the Elder," , "קראנאך, לוקאס האב, 1472-1553" , "Kranakh, Luka, 1472-1553" , "Müller, Lukas" , "Cranach, Lucas, 1472-1553 starszy," , "Subder, Lucas, 1472-1553" , "Cranach the Elder, Lucas" , "Cranach, Lukas, 1472-1553" , "Cranach, Sunder" , "Kronach, Lucas" , "Cranach, Lukas, 1472-1553 der Ältere," , "Kranach, Lucas" , "Sunder-Maler, Lucas 1472-1553" , "Krānahs, Lukass, 1472-1553 vecākais," , "Maler, Lucas 1472-1553" , "Kranach, Lukas, 1472-1553" , "קרנך, לוקס האב, 1472-1553" , "Müller, Lucas 1472-1553" , "Sonder, Lucas" , "Cranach, Lucas" , "Cranach d. Ä, Lucas" , "Cranach l'ancien, Lucas 1472-1553" , "Sünder, Lucas" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/ISNI> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/JPG%7C500115364#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Lucas Cranach" , "Cranach, Lucas" , "Sonder, Lucas" , "Cranach, Lucas I" , "Lucas Cranach the Elder" , "Kranach, Lukas" , "Cranach, Muller" , "Cranach, Lucas, the Elder" , "Lucas Cranack" , "Moller, Lucas" , "Müller, Lucas" , "Kranakh, Luka" , "Cranach the Elder, Lucas" , "Luca Kranack" , "Cranach, Sunder" , "Luca Cranach" , "Lucas I Cranach" , "Maler, Lucas" , "Lucas Cranache" , "Sunder, Lucas" , "Kronach, Lucas" , "Cranach, Lukas" , "Lucas Cranaccio" , "Muller, Lucas" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/JPG> ;
+        skos:prefLabel  "Cranach, Lucas, the elder (German painter, draftsman, and printmaker, 1472-1553)" ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/LC%7Cn++50020861#skos:Concept>
+        a                skos:Concept ;
+        skos:altLabel    "Kranakh, Luka, 1472-1553" , "Cranach, Lucas, der Ältere, 1472-1553" , "Sunder, Lucas, 1472-1553" , "Cranach, Lucas, il Vecchio, 1472-1553" , "Maler, Lucas, 1472-1553" , "Cranach, Lucas, starszy, 1472-1553" , "Cranach, Lucas, the Elder, 1472-1553" , "Kranach, Lukas, 1472-1553" , "Müller, Lucas, 1472-1553" ;
+        skos:exactMatch  <http://id.loc.gov/authorities/names/n50020861> ;
+        skos:inScheme    <http://viaf.org/authorityScheme/LC> ;
+        skos:prefLabel   "Cranach, Lucas, 1472-1553." ;
+        foaf:focus       <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/LNB%7CLNC10-000002573#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Krānahs, Lukass, vecākais, 1472-1553" , "Maler, Lucas, 1472-1553" , "Müller, Lucas, 1472-1553" , "Кранах, Лукас, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/LNB> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NDL%7C00436834#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "クラーナハ" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NDL> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NKC%7Cjn20000700335#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Kranach, Lukas, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NKC> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NLA%7C000035031951#skos:Concept>
+        a               skos:Concept ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NLA> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NLI%7C000035532#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Kranach, Lukas, 1472-1553" , "Maler, Lucas, 1472-1553" , "Müller, Lucas, 1472-1553" , "Sunder, Lucas, 1472-1553" , "קרנך, לוקס, האב, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NLI> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NLI%7C001445575#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Kranach, Lukas, 1472-1553" , "Maler, Lucas, 1472-1553" , "Müller, Lucas, 1472-1553" , "Sunder, Lucas, 1472-1553" , "קרנך, לוקס, האב, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NLI> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NLI%7C001448179#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Kranach, Lukas, 1472-1553" , "Maler, Lucas, 1472-1553" , "Müller, Lucas, 1472-1553" , "Sunder, Lucas, 1472-1553" , "קרנך, לוקס, האב, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NLI> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NLP%7Ca16828161#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Cranach, Lucas der Ältere" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NLP> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NTA%7C068435312#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Cranach, Lucas, the Elder, 1472-1553" , "Cranach, Lukas, 1472-1553" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NTA> ;
+        skos:prefLabel  "Cranach, Lucas, der Ältere, 1472-1553" ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/NUKAT%7Cn++97083131#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Müller, Lucas (1472-1553)." , "Cranach, Lucas der Ältere." , "Cranach Starszy." , "Cranach d. Ä., Lucas." , "Sunder, Lucas (1472-1553)." , "Kranach, Lucas." ;
+        skos:inScheme   <http://viaf.org/authorityScheme/NUKAT> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/SELIBR%7C182422#skos:Concept>
+        a                skos:Concept ;
+        skos:altLabel    "Cranach, Lucas, der Ältere, 1472-1553" , "Cranach, Lucas, 1472-1553" , "Cranach, Lukas, der Ältere, 1472-1553" ;
+        skos:exactMatch  <http://libris.kb.se/resource/auth/182422#concept> ;
+        skos:inScheme    <http://viaf.org/authorityScheme/SELIBR> ;
+        skos:prefLabel   "Cranach, Lucas, d. ä., 1472-1553" ;
+        foaf:focus       <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/SUDOC%7C028710010#skos:Concept>
+        a               skos:Concept ;
+        skos:altLabel   "Cranach der Ältere" , "Müller, Lucas" , "Cranach, Lucas, l'Ancien" , "Cranach l'Ancien" , "Müller, Lukas" , "Sünder, Lukas" , "Sünder, Lucas" , "Cranach, Lukas" ;
+        skos:inScheme   <http://viaf.org/authorityScheme/SUDOC> ;
+        skos:prefLabel  "Cranach, Lucas, 1472-1553." ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/sourceID/WKP%7CLucas_Cranach_the_Elder#skos:Concept>
+        a               skos:Concept ;
+        skos:inScheme   <http://viaf.org/authorityScheme/WKP> ;
+        skos:prefLabel  "Cranach, Lucas, The Elder" ;
+        foaf:focus      <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/309627965>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Prinz Johann von Anhalt" .
+
+<http://viaf.org/viaf/176725906>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Last Judgment" .
+
+<http://viaf.org/viaf/181589948>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Wittenberger Heiltumsbuch." .
+
+<http://viaf.org/viaf/188299267>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Allegorie des evangelischen Glaubens" .
+
+<http://viaf.org/viaf/189367455>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Mariahilf-Bild" .
+
+<http://viaf.org/viaf/190449321>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Katharinenaltar" .
+
+<http://viaf.org/viaf/191526550>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Madonna in der Weinlaube" .
+
+<http://viaf.org/viaf/193053703>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Passionsfolge" .
+
+<http://viaf.org/viaf/193687224>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Dr. Johannes Cuspinian" .
+
+<http://viaf.org/viaf/194032409>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Passional Christi und Antichristi" .
+
+<http://viaf.org/viaf/196743522>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Christus und die Ehebrecherin" .
+
+<http://viaf.org/viaf/196916549>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Ruhe auf der Flucht nach Ägypten" .
+
+<http://viaf.org/viaf/196919369>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Adam und Eva" .
+
+<http://viaf.org/viaf/197067504>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Zehn-Gebote-Tafel" .
+
+<http://viaf.org/viaf/198145223>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Schneeberg-Retabel" .
+
+<http://viaf.org/viaf/198559187>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Bildnis Kurfürst Friedrichs des Weisen" .
+
+<http://viaf.org/viaf/198564967>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Magdalenen-Altar" .
+
+<http://viaf.org/viaf/198912192>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Himmelsleiter des heiligen Bonaventura" .
+
+<http://viaf.org/viaf/202975979>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Neustädter Altar" .
+
+<http://viaf.org/viaf/205792598>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Christus und die Samariterin am Jakobsbrunnen" .
+
+<http://viaf.org/viaf/207940406>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Annenaltar" .
+
+<http://viaf.org/viaf/207945460>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Jungbrunnen" .
+
+<http://viaf.org/viaf/219302922>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Bildnis Kurfürst Friedrichs III." .
+
+<http://viaf.org/viaf/219965699>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Urteil des Paris" .
+
+<http://viaf.org/viaf/247916781>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Reformationsaltar" .
+
+<http://viaf.org/viaf/252460288>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "drei Grazien" .
+
+<http://viaf.org/viaf/266695348>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Cranach-Altar" .
+
+<http://viaf.org/viaf/293403678>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Portrait de Martin Luther" .
+
+<http://viaf.org/viaf/293678737>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Les trois grâces" .
+
+<http://viaf.org/viaf/293683978>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "mélancolie" .
+
+<http://viaf.org/viaf/301128594>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Portræt af Christian II" .
+
+<http://viaf.org/viaf/301943627>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Portræt af Christian II" .
+
+<http://viaf.org/viaf/305258283>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Christus segnet die Kinder" .
+
+<http://viaf.org/viaf/308202965>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "drei Grazien" .
+
+<http://viaf.org/viaf/308208455>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Schneeberger Reformationsretabel" .
+
+<http://viaf.org/viaf/308732586>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Porträt eines Mannes" .
+
+<http://viaf.org/viaf/309601589>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Sterbende" .
+
+<http://viaf.org/viaf/309618709>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Diana und Aktäon" .
+
+<http://viaf.org/viaf/309627831>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Joachim II. als Kurprinz" .
+
+<http://viaf.org/viaf/309724175>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Christus segnet die Kinder" .
+
+<http://viaf.org/viaf/310613886>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Christ blessing the children" .
+
+<http://viaf.org/viaf/311190865>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Christus und Maria" .
+
+<http://viaf.org/viaf/311456689>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "kleine Kardinal Bartsch VII.277.4" .
+
+<http://viaf.org/viaf/312410314>
+        a               schema:CreativeWork ;
+        schema:creator  <http://viaf.org/viaf/49268177> ;
+        schema:name     "Lucas Cranach der Altere: Zeichnungen" .
+
+<http://viaf.org/viaf/49268177/#foaf:Person>
+        rdfs:comment   "This primary entity identifier is deprecated. See the schema:sameAs link for the new identifier." ;
+        schema:sameAs  <http://viaf.org/viaf/49268177> .
+
+<http://viaf.org/viaf/49268177/#skos:Concept>
+        rdfs:comment  "This concept identifier is deprecated. See the foaf:focus link for the primary entity." ;
+        foaf:focus    <http://viaf.org/viaf/49268177> .

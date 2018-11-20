@@ -1,0 +1,153 @@
+Cranach|0|0|0|0|1|1|0
+Cranach El vell|0|0|1|0|1|0|0
+Cranach Lucas|0|0|1|1|1|0|0
+Cranach Lucas 01|0|0|0|0|0|1|0
+Cranach Lucas I|0|0|1|1|1|0|0
+Cranach Lucas The Elder|1|0|1|0|1|0|0
+Cranach Lucas d. ä|0|0|1|0|1|0|0
+Cranach Lucas der Ältere|0|0|1|0|1|0|0
+Cranach Lucas el Viejo|0|0|1|0|1|0|0
+Cranach Lucas il Vecchio|0|0|1|0|1|0|0
+Cranach Lucas l'Ancien|0|0|1|0|1|0|0
+Cranach Lucas st|0|0|0|0|1|0|0
+Cranach Lucas starszy|0|0|0|0|1|0|0
+Cranach Lucas the Elder|0|0|0|1|1|0|0
+Cranach Lucas the Elder studio of|0|0|0|0|1|0|0
+Cranach Lucas the elder|0|0|1|1|1|0|0
+Cranach Lukas|0|0|1|1|1|0|0
+Cranach Lukas d.Ä|0|0|1|0|1|0|0
+Cranach Lukas der Ältere|0|0|1|0|1|0|0
+Cranach Muller|0|0|1|1|1|0|0
+Cranach Starszy|0|0|1|0|1|0|0
+Cranach Sunder|0|0|1|1|1|0|0
+Cranach d. Ä Lucas|0|0|1|0|1|0|0
+Cranach d. Ä. Lucas|0|0|0|0|1|0|0
+Cranach der Ältere|0|0|1|0|1|0|0
+Cranach der Ältere Lucas|0|0|1|0|1|0|0
+Cranach il Vecchio|0|0|0|0|0|1|0
+Cranach l'Ancien|0|0|1|0|1|0|0
+Cranach l'ancien|0|0|0|0|1|0|0
+Cranach l'ancien Lucas|0|0|1|0|1|0|0
+Cranach l’Ancien|0|0|0|0|0|1|0
+Cranach the Elder|0|1|0|0|0|0|0
+Cranach the Elder Lucas|0|0|1|1|1|0|0
+Id. Lucas Cranach|1|0|0|0|0|0|1
+Kranach Lucas|0|0|1|0|1|0|0
+Kranach Lukas|0|0|1|1|1|0|0
+Kranakh Luka|0|0|1|1|1|0|0
+Kronach Lucas|0|0|1|1|1|0|0
+Krānahs Lukass|0|0|0|0|1|0|0
+Krānahs Lukass vecākais|0|0|1|0|1|0|0
+Kurānaha|0|0|1|0|1|0|0
+Luca Cranach|0|0|1|1|1|0|0
+Luca Kranack|0|0|1|1|1|0|0
+Luca d'Olanda|0|0|1|0|1|0|0
+Lucas|0|0|0|0|1|0|0
+Lucas Cranaccio|0|0|1|1|1|0|0
+Lucas Cranach|1|1|1|1|1|1|0
+Lucas Cranach "el Vell"|0|0|0|0|0|0|0
+Lucas Cranach "el Viejo"|0|0|0|0|0|0|0
+Lucas Cranach I|0|0|0|0|0|1|0
+Lucas Cranach Mzee|1|0|0|0|0|1|0
+Lucas Cranach Stariji|1|0|0|0|0|1|1
+Lucas Cranach Starszy|1|1|0|0|0|1|1
+Lucas Cranach Zaharra|0|0|0|0|0|1|0
+Lucas Cranach an Henañ|1|0|0|0|0|1|1
+Lucas Cranach cel Bătrân|1|1|0|0|0|1|1
+Lucas Cranach d. Ä.|0|0|0|0|0|0|0
+Lucas Cranach d.e.|0|0|0|0|0|0|0
+Lucas Cranach d.Ä.|0|0|0|0|0|0|0
+Lucas Cranach d.ä.|0|0|0|0|0|0|0
+Lucas Cranach de Oude|1|1|0|0|0|1|1
+Lucas Cranach de Oudere|0|0|0|0|0|1|0
+Lucas Cranach den eldre|1|1|0|0|0|1|1
+Lucas Cranach den eldre|1|1|0|0|0|1|1
+Lucas Cranach den äldre|1|1|0|0|0|1|1
+Lucas Cranach den ældre|1|1|0|0|0|1|1
+Lucas Cranach der Altere|0|0|0|0|0|1|0
+Lucas Cranach der Ältere|1|1|0|0|0|1|1
+Lucas Cranach die Allere|0|0|0|0|0|1|0
+Lucas Cranach die Ouere|1|0|0|0|0|1|1
+Lucas Cranach el Vell|1|1|0|0|0|1|1
+Lucas Cranach el Viejo|1|1|0|0|0|1|1
+Lucas Cranach il Vecchio|1|1|0|0|0|1|1
+Lucas Cranach kozh|0|0|0|0|0|1|0
+Lucas Cranach l'Ancien|1|1|0|0|0|1|1
+Lucas Cranach la Maljuna|1|0|0|0|0|1|1
+Lucas Cranach maior|1|0|0|0|0|1|1
+Lucas Cranach o Velho|1|1|0|0|0|1|1
+Lucas Cranach starší|1|1|0|0|0|1|1
+Lucas Cranach the Elder|1|1|1|1|1|1|1
+Lucas Cranach vanhempi|1|1|0|0|0|1|1
+Lucas Cranache|0|0|1|1|1|0|0
+Lucas Cranack|0|0|1|1|1|0|0
+Lucas I Cranach|0|0|1|1|1|0|0
+Lucas Maler|1|0|0|0|0|0|1
+Lucas The Elder|0|0|0|0|1|0|0
+Lucas the Elder|0|0|0|0|1|0|0
+Lucas the Elder studio of|0|0|0|0|1|0|0
+Lucas the elder|0|0|0|0|1|0|0
+Luka Kranah Stariji|0|0|0|0|0|1|0
+Lukas Cranach|0|0|0|0|0|1|0
+Lukas Cranach il Vecchio|0|0|0|0|0|1|0
+Lukas Kranach|0|0|0|0|0|1|0
+Lukas Kranachas Vyresnysis|1|1|0|0|0|1|1
+Lukas Kranah Stariji|0|0|0|0|0|1|0
+Lukas Kranax|1|0|0|0|0|1|0
+Lukas Kranax (böyük)|0|0|0|0|0|0|1
+Lukass Krānahs Vecākais|0|0|0|0|0|1|0
+Lukáš Cranach starší|0|0|0|0|0|1|0
+Lūkass Kranahs Vecākais|0|0|0|0|0|1|0
+Lūkass Krānahs Vecākais|1|1|0|0|0|1|1
+Maler Lucas|0|0|1|1|1|0|0
+Moller Lucas|0|0|1|1|1|0|0
+Muller Lucas|0|0|0|1|1|0|0
+Müller Lucas|0|0|1|1|1|0|0
+Müller Lukas|0|0|1|0|1|0|0
+Sonder Lucas|0|0|1|1|1|0|0
+Subder Lucas|0|0|1|0|1|0|0
+Sunder Lucas|0|0|0|1|1|0|0
+Sunder-Maler Lucas|0|0|1|0|1|0|0
+Sünder Lucas|0|0|1|0|1|0|0
+Sünder Lukas|0|0|1|0|1|0|0
+Λούκας Κράναχ ο Πρεσβύτερος|0|1|0|0|0|1|0
+Кранах|0|0|0|0|1|0|0
+Кранах Л.|0|0|0|0|0|0|0
+Кранах Л. С.|0|0|0|0|0|0|0
+Кранах Лукас|0|1|1|0|1|1|0
+Кранах Лукас Ст.|0|0|0|0|0|0|0
+Кранах Лукас Старший|1|0|0|0|0|1|1
+Лука Кранах Постариот|0|0|0|0|0|1|0
+Лука Кранах Старији|1|1|0|0|0|1|1
+Лукас|0|0|0|0|1|0|0
+Лукас Кранах|0|1|0|0|0|1|0
+Лукас Кранах Стари|1|1|0|0|0|1|0
+Лукас Кранах Старший|1|0|0|0|0|1|1
+Лукас Кранах Старэйшы|1|0|0|0|0|1|1
+Лукас Кранах старший|0|1|0|0|0|0|0
+Лукас Ст. Кранах|0|0|0|0|0|0|0
+Лукас Старший Кранах|0|0|0|0|0|1|0
+Люкас Кранах Старэйшы|1|0|0|0|0|1|0
+Լուկաս Կրանախ Ավագ|1|0|0|0|0|1|1
+לוקאס האב|0|0|0|0|1|0|0
+לוקאס האב סדנת|0|0|0|0|1|0|0
+קראנאך|0|0|0|0|1|0|0
+קראנאך לוקאס האב|0|0|1|0|1|0|0
+קראנאך לוקאס האב סדנת|0|0|0|0|1|0|0
+קראנאך סדנת|0|0|1|0|0|0|0
+קרנך לוקס האב|0|0|1|0|1|0|0
+لوكاس كراناك الاكبر|1|0|0|0|0|1|1
+لوکاس کراناخ|1|1|0|0|0|1|1
+ลูคัส ครานัค|0|1|0|0|0|1|0
+ลูคัส ครานาค|1|1|0|0|0|0|1
+ლუკას კრანახი უფროსი|1|0|0|0|0|1|0
+クラナッハ|0|0|0|0|0|1|0
+クラナハ|0|0|0|0|0|1|0
+クラーナハ|0|0|1|0|1|1|0
+ルーカス・クラナッハ|1|1|0|0|0|1|1
+ルーカス・クラナハ|0|0|0|0|0|1|0
+ルーカス・クラーナハ|0|0|0|0|0|1|0
+老卢卡斯·克拉纳赫|1|1|0|0|0|1|1
+老盧卡斯·克拉納赫|0|1|0|0|0|1|0
+루카스 크라나흐|1|1|0|0|0|1|1
+크라나흐|0|0|0|0|0|1|0
