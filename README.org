@@ -16,8 +16,8 @@
 * Introduction
 This paper analyzes potential data sources for semantic enrichment of names (Person/Organization NER).
 - It is part of Europeana Creative deliverable D2.4
-- See list of associated files on https://github.com/VladimirAlexiev/VladimirAlexiev.github.io/tree/master/CH-names
-- You could read there, but use http://vladimiralexiev.github.io/CH-names/README.html for better reading (the files are linked from the text below)
+- See list of associated files on https://github.com/VladimirAlexiev/CH-names
+- You could read there, but use http://rawgit2.com/VladimirAlexiev/CH-names/master/README.html for better reading (the files are linked from the text below)
 
 Highlights:
 - The best datasets to use for name enrichment are VIAF and Wikidata

@@ -1,4 +1,7 @@
 #!perl -w
+# NOTICE: this is obsolete, as it generates to sections: sets (with labels & size) and overlaps (with indices and size).
+# The new venn.js format is simpler and has only one section: sets
+
 use Algorithm::Combinatorics qw(subsets);
 
 my @sets=qw{dbpedia freebase ISNI ULAN VIAF wikidata yago};
